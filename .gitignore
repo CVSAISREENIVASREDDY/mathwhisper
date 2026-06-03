@@ -18,4 +18,4 @@ Desktop.ini
 
 # Heavy model weights/data paths 
 *.onnx
-*.pdparams
+*.pdparams 
